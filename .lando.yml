@@ -1,0 +1,6 @@
+name: creshendo-d8
+recipe: pantheon
+config:
+  framework: drupal8
+  site: creshendo-d8
+  id: ea049fb0-b39b-4d46-9361-ced284bc199c
