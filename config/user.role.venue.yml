@@ -1,0 +1,9 @@
+uuid: a33e4d4a-ed4e-45b5-9af7-fbaa5a5aad9a
+langcode: en
+status: true
+dependencies: {  }
+id: venue
+label: venue
+weight: 3
+is_admin: null
+permissions: {  }

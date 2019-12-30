@@ -1,0 +1,14 @@
+uuid: 2568108c-d366-41d0-9335-980d02dad919
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.entertainer
+  module:
+    - user
+id: user_add_role_action.entertainer
+label: 'Add the entertainer role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: entertainer

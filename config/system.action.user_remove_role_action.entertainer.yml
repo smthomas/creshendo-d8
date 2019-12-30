@@ -1,0 +1,14 @@
+uuid: f287f8e2-7e7d-4ebe-a127-f6691ef55935
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.entertainer
+  module:
+    - user
+id: user_remove_role_action.entertainer
+label: 'Remove the entertainer role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: entertainer

@@ -1,0 +1,8 @@
+access_token_expiration: 86400
+authorization_code_expiration: 86400
+refresh_token_expiration: 604800
+token_cron_batch_size: 50
+public_key: ../keys/public.key
+private_key: ../keys/private.key
+remember_clients: true
+use_implicit: false

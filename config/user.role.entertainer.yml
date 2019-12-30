@@ -1,0 +1,9 @@
+uuid: 9a14f2f7-8d8e-4a6c-acfb-b607d09a975b
+langcode: en
+status: true
+dependencies: {  }
+id: entertainer
+label: entertainer
+weight: 4
+is_admin: null
+permissions: {  }
